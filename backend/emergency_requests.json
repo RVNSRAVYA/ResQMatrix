@@ -1,0 +1,26 @@
+[
+  {
+    "request_id": "FR-5C976DF4",
+    "emergency_type": "Food",
+    "urgency": "Medium",
+    "people_count": 2,
+    "description": "needed",
+    "latitude": 16.17937555933356,
+    "longitude": 81.1228441965318,
+    "status": "Accepted",
+    "created_at": "2026-10-17T09:12:21.635880+00:00",
+    "updated_at": "2026-10-17T09:12:38.894362+00:00"
+  },
+  {
+    "request_id": "FR-36AF8F6F",
+    "emergency_type": "Rescue",
+    "urgency": "Critical",
+    "people_count": 5,
+    "description": "",
+    "latitude": 16.4757,
+    "longitude": 80.7036,
+    "status": "Accepted",
+    "created_at": "2026-10-17T09:14:56.208829+00:00",
+    "updated_at": "2026-10-17T09:15:09.553492+00:00"
+  }
+]
